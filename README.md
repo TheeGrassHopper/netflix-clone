@@ -1,9 +1,10 @@
 # Who doesn't love watching endless trailers
 
-This a React netflix traliers - WHO doesn't love watching endless trailers and then call it a night and go to sleep lol
+This a React Netflix trailers - WHO doesn't love watching endless trailers and then call it a night and go to sleep lol
+
 [www.netflix.com](https://netflix-colne-9ed17.web.app).
 
-## Useing 
+## Using 
 - axios
 - movie-trailer
 - react-youtube
