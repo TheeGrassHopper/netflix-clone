@@ -2,12 +2,13 @@
 
 This a React Netflix trailers - WHO doesn't love watching endless trailers and then call it a night and go to sleep lol
 
-[www.netflix.com](https://netflix-colne-9ed17.web.app).
+[www.netflix.com](https://netflix-colne-9ed17.web.app)
 
 ## Using 
 - axios
 - movie-trailer
 - react-youtube
+- firebase
 
 ## Available Scripts
 
