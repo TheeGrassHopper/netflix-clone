@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This a React netflix traliers - WHO doesn't love watching endless trailiers and then call it a night and go to sleep lol
+[www.netflix.com](https://netflix-colne-9ed17.web.app).
 ## Available Scripts
 
 In the project directory, you can run:
